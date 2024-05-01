@@ -97,8 +97,8 @@ export default function Footer() {
           </span>
         </div>
         <div className="flex items-center">
-          <span className="text-white">Crafted by</span>
-          <span className="text-white">Mehtab Ali</span>
+          <span className="text-white">Crafted by :</span>
+          <span className="text-white font-bold uppercase"> - Mehtab Ali</span>
         </div>
       </div>
     </footer>
