@@ -30,7 +30,7 @@ export default function Footer() {
             </li>
             <li className="py-3 md:py-0 md:pb-4">
               <Link
-                href="/"
+                href="//https://medium.com/@mohd2mehtab"
                 className="text-white transition duration-150 ease-in-out hover:text-zinc-200"
               >
                 About
@@ -46,7 +46,7 @@ export default function Footer() {
             </li>
             <li className="py-3 md:py-0 md:pb-4">
               <Link
-                href="/"
+                href="/https://medium.com/@mohd2mehtab"
                 className="text-white transition duration-150 ease-in-out hover:text-zinc-200"
               >
                 Blog
@@ -83,7 +83,7 @@ export default function Footer() {
           <div className="flex items-center h-10 space-x-6">
             <a
               aria-label="Github Repository"
-              href="https://github.com/vercel/nextjs-subscription-payments"
+              href="https://github.com/codingEdg/nextjs-subscription-payments-main"
             >
               <GitHub />
             </a>
@@ -98,13 +98,7 @@ export default function Footer() {
         </div>
         <div className="flex items-center">
           <span className="text-white">Crafted by</span>
-          <a href="https://vercel.com" aria-label="Vercel.com Link">
-            <img
-              src="/vercel.svg"
-              alt="Vercel.com Logo"
-              className="inline-block h-6 ml-4 text-white"
-            />
-          </a>
+          <span className="text-white">Mehtab Ali</span>
         </div>
       </div>
     </footer>
